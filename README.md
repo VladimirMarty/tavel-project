@@ -22,3 +22,5 @@
 Cылка на GitHub Pages:
 (https://vladimirmarty.github.io/russian-travel-bootcamp/)
 
+
+![alt text](https://github.com/VladimirMarty/tavel-project/blob/main/Russia.png)
